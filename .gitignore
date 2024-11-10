@@ -1,4 +1,4 @@
 .ipynb_checkpoints/
-.pdf
-.html
-.csv
+*.pdf
+*.html
+*.csv
